@@ -1,3 +1,4 @@
+
 Retail Sales Performance Analysis
 
 An end-to-end data analyst project: cleaning a genuinely messy retail transactions dataset, answering real business questions using both Python and SQL, and presenting the findings in an interactive Power BI dashboard.
@@ -48,3 +49,13 @@ Every finding above was calculated independently in both pandas and SQL, and the
 Dashboard
 
 Built in Power BI: category revenue, monthly trend, payment method breakdown, and online vs in-store performance, all on one page.
+
+View the dashboard (PDF)
+
+Files in this repo
+File	Description
+retail_store_sales.csv	Raw, messy source data
+01_data_cleaning.ipynb	Full cleaning process with explanations
+cleaned_retail_sales.csv	Cleaned output, ready for analysis
+dashboard_screenshot.pdf	Exported Power BI dashboard
+retail_sales.pbix	Power BI source file
